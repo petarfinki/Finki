@@ -1,1 +1,2 @@
-
+fajlovite file.m i file1.m ne mozam da gi prikacam na git bidejki >100MB.
+na niv se zacuvani varijablite filtered_image i filter_kernel koi mi se potrebni za egzekucija na filtriranjeto
